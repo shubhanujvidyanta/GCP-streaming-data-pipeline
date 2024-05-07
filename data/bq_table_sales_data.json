@@ -1,0 +1,42 @@
+[
+  {
+    "name": "manufacturing_year",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "make",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "model",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "trim",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "body",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "transmission",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "sellingprice",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "sale_year",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }
+]
